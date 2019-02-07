@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ClearTripAssg</string>
+    <string name="activities">Activities</string>
+    <string name="eat_out">Eat Out</string>
+    <string name="events">Events</string>
+    <string name="you">You</string>
+    <string name="deals">Deals</string>
+    <string name="do_more_accounts">Do more with accounts</string>
+    <string name="manage_trips"><![CDATA[Manage trips, make changes, save cards & faster refunds]]></string>
+    <string name="sign_in">SingIn or regsiter</string>
+    <string name="referrals">Referrals</string>
+    <string name="express_way">Expressway</string>
+    <string name="wallet">Wallet/</string>
+    <string name="your_trip"><![CDATA[<b><font color=#000000>Your trips and booking reside here</font></b>\n<font color=#DCDCDC>Sign in to access them</font>]]></string>
+    <string name="booking">Bookings</string>
+    <string name="account">Account</string>
+
+</resources>

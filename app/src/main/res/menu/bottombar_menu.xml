@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_bottombar_activity"
+        android:icon="@drawable/ic_activites"
+        android:title="@string/activities"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_bottombar_eat"
+        android:icon="@drawable/ic_eatout"
+        android:title="@string/eat_out"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_bottombar_events"
+        android:icon="@drawable/ic_event"
+        android:title="@string/events"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/action_bottombar_you"
+        android:icon="@drawable/ic_you"
+        android:title="@string/you"
+        app:showAsAction="ifRoom" />
+
+</menu>
